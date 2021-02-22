@@ -12,4 +12,3 @@ Keras-Preprocessing==1.1.0
 QtAwesome==0.6.1
 qtconsole==4.6.0
 QtPy==1.9.0
-libgl1-mesa-glx==11.2.0
