@@ -5,8 +5,7 @@ warnings.simplefilter("ignore")
 from keras.preprocessing.image import img_to_array
 from keras.models import load_model
 import numpy as np
-import opencv
-from opencv import cv2
+import cv2
 from flask import Flask, request, render_template
 from keras import backend as K
 from os import listdir
